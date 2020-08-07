@@ -1,6 +1,11 @@
+#Youtube credentials
 client_id =""
 client_secret = ""
-ouath = ""
-YOUTUBE_API_KEY = ""
-SPOTIFY_API_KEY = ""
+YoutubeOuathToken = ""
+Youtube_Api_Key = ""
+#Spotify credentials
+
+Spotify_user_id = ""
+Spotify_secret = ""
+
 
